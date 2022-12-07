@@ -1,11 +1,11 @@
 // variaveis
 let a, b, c;
-a = 4;
-b = 4;
-c = a + b + 2;
+a = 2;
+b = 2;
+c = a + b + 6;
 
 let x, y, z;
-x = 10; y = 10; z = x + y;
+x = 5; y = 3; z = x + y;
 
 alert(c)
 alert(z)
