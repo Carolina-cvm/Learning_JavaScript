@@ -17,4 +17,22 @@ console.log(valor);
 console.log(name);
 console.log(fruta);
 
-//AULA 28
+//AULA 30
+const foreName = 'Maria';
+const surName = 'da Silva';
+let fullName = foreName + ' ' + surName;
+console.log('O nome dela é:' + fullName);
+
+//AULA 32
+const number = 27;
+const number2 = 35;
+
+const add = number + number2;
+const sub = number - number2;
+const mult = number * number2;
+const div = number / number2;
+
+console.log(add);
+console.log(sub);
+console.log(mult);
+console.log(div);
