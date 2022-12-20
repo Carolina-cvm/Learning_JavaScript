@@ -36,3 +36,12 @@ console.log(add);
 console.log(sub);
 console.log(mult);
 console.log(div);
+
+//AULA 33
+let number = 40;
+number += 5; // number = 45
+number -= 10; // number = 35
+number++; // number = 36
+number--; // number = 35
+number--; // number = 34
+console.log(number);
