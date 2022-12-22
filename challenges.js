@@ -1,6 +1,6 @@
 // CHALLENGE #1
-const firstName = "Carolina";
-const lastName = "Martins";
+const firstName = "Maria";
+const lastName = "Silva";
 let address = "main street";
 address = "first street";
 console.log(firstName, lastName, address);
@@ -25,3 +25,10 @@ let remaining = plates % people;
 remaining++;
 const message = "There are" + remaining + "plates available";
 console.log(message);
+
+// CHALLANGE #4
+const fruits = ['grape', 'apple', 'strawberry','watermelon', 10];
+const firstFruit = fruits[1];
+console.log(firstFruit); // retorna apple
+fruits[4] = 'jackfruit';
+console.log(fruits);
