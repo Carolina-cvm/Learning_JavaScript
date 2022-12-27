@@ -1,0 +1,6 @@
+// CHALLENGE #1
+const firstName = "Maria";
+const lastName = "Silva";
+let address = "main street";
+address = "first street";
+console.log(firstName, lastName, address);
