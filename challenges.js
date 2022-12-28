@@ -1,10 +1,3 @@
-// CHALLENGE #1
-const firstName = "Maria";
-const lastName = "Silva";
-let address = "main street";
-address = "first street";
-console.log(firstName, lastName, address);
-
 // CHALLENGE #2
 const street = 'Avenida Rui Barbosa';
 const country = 'Brasil';
@@ -48,22 +41,3 @@ const order1 = calculateTotal(25, 25);
 const order2 = calculateTotal(50, 50);
 const order3 = calculateTotal(100,100);
 console.log(order1, order2, order3);
-
-// CHALLANGE #6
-const car = {
-  make = 'toyota',
-  model = 'corolla',
-  year = 2018,
-  colors = ['preto', 'branco', 'cinza'],
-  hybrid = false,
-  drive(){
-    console.log('Dirigir o carro');
-  },
-  stop(){
-    console.log('Parar o carro');
-  }
-}
-console.log(car.make);
-console.log(car.colors[0]);
-car.drive();
-car.stop();
