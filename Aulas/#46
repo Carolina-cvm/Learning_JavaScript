@@ -1,0 +1,8 @@
+//AULA 46
+const value = 5 > 3;
+if (value) {
+  console.log('Hello wordl');
+}
+else {
+  console.log('Hello people');
+}
