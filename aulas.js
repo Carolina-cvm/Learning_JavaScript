@@ -124,18 +124,3 @@ const add = function(num1, num2){
 const values = [firstValue, secondValue, add(20, 5)]
 console.log(values);
 
-// AULA 44
-const person = {
-  nome = 'Maria',
-  sobrenome = 'Silva',
-  idade = 21,
-  profissao = 'medica',
-  animais = ['cachorro', 'gato', 'passaro'],
-  greeting(){
-    console.log('Olá, meu nome é Maria');
-  }
-}
-console.log(person.nome);
-console.log(person.idade);
-console.log(person.animais[1]);
-person.greeting();
