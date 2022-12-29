@@ -19,9 +19,3 @@ remaining++;
 const message = "There are" + remaining + "plates available";
 console.log(message);
 
-// CHALLANGE #4
-const fruits = ['grape', 'apple', 'strawberry','watermelon', 10];
-const firstFruit = fruits[1];
-console.log(firstFruit); // retorna apple
-fruits[4] = 'jackfruit';
-console.log(fruits);
