@@ -1,0 +1,15 @@
+// AULA 50
+const num = 3;
+switch(num){
+  case 1:
+    console.log('número um');
+    break;
+  case 2:
+    console.log('número dois');
+    break;
+  case 3:
+    console.log('número tres');
+    break;
+  default:
+    console.log('seu numero nao faz parte da lista');
+}
