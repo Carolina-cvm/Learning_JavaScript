@@ -1,9 +1,3 @@
-// CHALLENGE #2
-const street = 'Avenida Rui Barbosa';
-const country = 'Brasil';
-let fullMailingAddress = street + ' ' + country;
-console.log();
-
 // CHALLANGE #3
 const score1 = 5;
 const score2 = 10;
