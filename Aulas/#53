@@ -1,0 +1,8 @@
+// AULA 53
+let saldo = 0;
+
+do{
+  console.log('Voce tem' + saldo + ' reais na conta');
+  saldo++;
+}
+while(saldo < 10)
