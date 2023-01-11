@@ -79,19 +79,3 @@ console.log(friends);
 console.log(friends[2]); // retorna juca
 friends[2] = 'hanna';
 console.log(friends[2]); // retorna hanna
-
-// AULA 39
-function hello(){ // declare
-  console.log('hey people');
-}
-hello() // invoke
-
-//AULA 40
-function greet(name){
-  console.log('Hello' + name + 'How are you?');
-}
-greet('Ana');
-// or
-const ana = 'ana';
-greet(ana);
-
