@@ -53,29 +53,3 @@ const result = number1 - number2;
 console.log(result) // 5
 const result2 = number1 + number2;
 console.log(result) // '105'
-
-// AULA 36
-// string
-const text = 'some text here';
-console.log(typeof text); // retorna que é uma string
-// number
-const number = 15;
-console.log(typeof number); // retorna que é um number
-// boolean
-const value1 = true;
-const value2 = false;
-console.log(typeof value1, typeof value2); // retorna que é um boolean
-// null
-const result = null;
-console.log(typeof result); // retorna que é um object
-// undefined
-let dogname;
-console.log(typeof dogname); // retorna undefined
-
-// AULA 37
-// array: 0 index based
-const friends = ['ana','joao','juca','maria', 10];
-console.log(friends);
-console.log(friends[2]); // retorna juca
-friends[2] = 'hanna';
-console.log(friends[2]); // retorna hanna
