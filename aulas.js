@@ -36,20 +36,3 @@ console.log(add);
 console.log(sub);
 console.log(mult);
 console.log(div);
-
-//AULA 33
-let number = 40;
-number += 5; // number = 45
-number -= 10; // number = 35
-number++; // number = 36
-number--; // number = 35
-number--; // number = 34
-console.log(number);
-
-//AULA 35
-let number1 = '10';
-let number2 = '5';
-const result = number1 - number2;
-console.log(result) // 5
-const result2 = number1 + number2;
-console.log(result) // '105'
