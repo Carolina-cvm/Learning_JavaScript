@@ -1,0 +1,7 @@
+//AULA 24
+var valor = 5; // adiciona
+let name = "ana"; // substitui
+const doce = "chocolate"; // cannot reassign
+console.log(valor);
+console.log(name);
+console.log(fruta);
