@@ -1,0 +1,12 @@
+// EXERCISE #1
+const nomes = ['ana', 'maria', 'joao'];
+const sobrenome = 'martins';
+let meuArray = [];
+
+for(let i = 0; i < nomes.length; i++){
+  console.log(i); // 0
+  console.log(nomes[i]); // ana
+  meuArray.push(`${nomes[i]} ${sobrenome}`); // ana martins 
+  console.log(meuArray); // ana martins
+}
+console.log(meuArray); // 'ana martins' 'maria martins' 'joao martins'
