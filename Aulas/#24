@@ -1,7 +1,7 @@
 //AULA 24
 var valor = 5; // adiciona
-let name = "ana"; // substitui
-const doce = "chocolate"; // cannot reassign
+let nome = "ana"; // substitui
+const doce = "chocolate"; // constante
 console.log(valor);
-console.log(name);
-console.log(fruta);
+console.log(nome);
+console.log(doce);
