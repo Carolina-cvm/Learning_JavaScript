@@ -1,0 +1,19 @@
+// AULA 66
+let nome = 'maria';
+nome = 'joao';
+
+function calcular(){
+  console.log(nome); // joao
+  function outrafunção(){
+    nome = 'maria clara silva';
+    console.log(`ola este é meu novo nome: ${nome}`); // ola este é meu novo nome: maria clara silva
+  }
+  outrafunção();
+}
+calcular();
+
+if (true){
+  console.log(nome); // maria clara silva 
+  nome = 'borboleta';
+}
+console.log(`agora meu nome eh ${nome}`); // agora meu nome eh borboleta
