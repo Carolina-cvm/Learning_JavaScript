@@ -21,5 +21,3 @@ console.log(nomeCompleto);
 
 nomeCompleto.pop(); // remove item do ultimo index
 console.log(nomeCompleto); 
-
-// slice??
