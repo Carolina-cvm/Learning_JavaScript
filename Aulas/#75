@@ -1,0 +1,18 @@
+// AULA 75
+// reduce
+// always return the first parameter acc, total
+
+const people = [
+  { name: 'joao', age: 20, profession: 'developer', salary: 200 },
+  { name: 'maria', age: 25, profession: 'designer', salary: 300 },
+  { name: 'luan', age: 21, profession: 'engineer', salary: 500 },
+  { name: 'julia', age: 23, profession: 'the boss', salary: 600 },
+];
+const total = people.reduce(function(acc, currItem){
+  console.log(`total: ${acc}`);
+  console.log(`current money: ${currItem.salary}`);
+  acc += currItem.salary;
+  return acc;
+}, 0);
+
+console.log(total);
