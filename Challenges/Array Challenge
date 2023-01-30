@@ -31,3 +31,10 @@ const students = [
     favoriteSubject:'math'
   },
 ]
+
+const updatedStudents = students.map(function (student){
+  student.role = 'student';
+  return student;
+})
+
+console.log(updatedStudents);
