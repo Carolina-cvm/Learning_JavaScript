@@ -1,0 +1,33 @@
+// ARRAY CHALLENGE
+const students = [
+  {
+    id:1,
+    name:'ana',
+    score: 85,
+    favoriteSubject:'math'
+  },
+  {
+    id:2,
+    name:'lucas',
+    score: 75,
+    favoriteSubject:'math'
+  },
+  {
+    id:3,
+    name:'pedro',
+    score: 85,
+    favoriteSubject:'math'
+  },
+  {
+    id:4,
+    name:'olivia',
+    score: 65,
+    favoriteSubject:'math'
+  },
+  {
+    id:5,
+    name:'maria',
+    score: 75,
+    favoriteSubject:'math'
+  },
+]
