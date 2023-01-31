@@ -56,3 +56,13 @@ const specificId = students.find(function(student) {
   return student.id === 3;
 });
 console.log(specificId);
+
+// REDUCE
+const averageScore = students.reduce(function(acc, currItem) {
+  console.log(`total: ${acc}`);
+  console.log(`current score: ${currItem.score}`);
+  acc += currItem.score;
+  divide = acc % students.length;
+  return acc, divide;
+}, 0);
+console.log(averageScore);
