@@ -50,3 +50,9 @@ const highScores = students.filter(function (student){
   // return student.score >= 80;
 });
 console.log(highScores);
+
+// FIND
+const specificId = students.find(function(student) {
+  return student.id === 3;
+});
+console.log(specificId);
