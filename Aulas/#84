@@ -1,0 +1,5 @@
+// AULA 84
+const subject = 'art';
+const total = {};
+total[subject] = 'some value';
+console.log(total); // {art: 'some value'}
