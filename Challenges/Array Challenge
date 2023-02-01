@@ -66,3 +66,14 @@ const averageScore = students.reduce(function(acc, currItem) {
   return acc, divide;
 }, 0);
 console.log(averageScore);
+
+const survey = students.reduce(function (survey, student){
+  const favSubject = student.favoriteSubject;
+  if (survey[favSubject]){
+    survey[favSubject] = survey[favSubject] + 1;
+  } else{
+    survey[favSubject] = 1;
+  }
+  return survey;
+}, {});
+console.log(survey); // art: 2; math: 2; geo: 1;
