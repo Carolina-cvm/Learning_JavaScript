@@ -4,7 +4,7 @@ const students = [
     id:1,
     name:'ana',
     score: 85,
-    favoriteSubject:'math'
+    favoriteSubject:'art'
   },
   {
     id:2,
@@ -16,13 +16,13 @@ const students = [
     id:3,
     name:'pedro',
     score: 85,
-    favoriteSubject:'math'
+    favoriteSubject:'art'
   },
   {
     id:4,
     name:'olivia',
     score: 65,
-    favoriteSubject:'math'
+    favoriteSubject:'geo'
   },
   {
     id:5,
