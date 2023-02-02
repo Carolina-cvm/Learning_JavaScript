@@ -1,28 +1,36 @@
 // AULA 86
-// floor
+// FLOOR arredonda para menos
 const number = 4.56789;
 const result = Math.floor(number);
 console.log(result); // 4
 
-const result2 = Math.floor(8.25795);
-console.log(result2); // 8
+const floor = Math.floor(8.25795);
+console.log(floor); // 8
 
-// ceil
-const result3 = Math.ceil(4.12222);
-console.log(result3); // 5
+// CEIL arredonda para mais
+const ceil = Math.ceil(4.12222);
+console.log(ceil); // 5
 
-// square root
-const result4 = Math.sqrt(25);
-console.log(result4); // 5
+// SQUARE ROOT
+const sqrt = Math.sqrt(25);
+console.log(sqrt); // 5
 
 // PI
-const result5 = Math.PI;
-console.log(result5); // 3,14....
+const pi = Math.PI;
+console.log(pi); // 3,14....
 
 // MIN
-const result5 = Math.min(4,5,8,15);
-console.log(result5); // 4
+const min = Math.min(4,5,8,15);
+console.log(min); // 4
 
-// MIN
-const result5 = Math.max(4,5,8,15);
-console.log(result5); // 4
+// MAX
+const max = Math.max(4,5,8,15);
+console.log(max); // 15
+
+// RANDOM gera número aleatório
+const random = Math.random(); // nunca será 1, 0....
+console.log(random);
+
+// número aleatório de 1 a 10
+const numRandom = Math.floor(Math.random() * 10 + 1);
+console.log(numRandom);
