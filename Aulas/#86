@@ -1,0 +1,28 @@
+// AULA 86
+// floor
+const number = 4.56789;
+const result = Math.floor(number);
+console.log(result); // 4
+
+const result2 = Math.floor(8.25795);
+console.log(result2); // 8
+
+// ceil
+const result3 = Math.ceil(4.12222);
+console.log(result3); // 5
+
+// square root
+const result4 = Math.sqrt(25);
+console.log(result4); // 5
+
+// PI
+const result5 = Math.PI;
+console.log(result5); // 3,14....
+
+// MIN
+const result5 = Math.min(4,5,8,15);
+console.log(result5); // 4
+
+// MIN
+const result5 = Math.max(4,5,8,15);
+console.log(result5); // 4
