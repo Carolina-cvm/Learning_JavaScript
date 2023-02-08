@@ -11,7 +11,7 @@ function calculateTotal(meuArray){
     console.log('Voce está gastando demais');
     return total;
   }else{
-    console.log('Voce esta economizando!');
+    console.log('Voce está economizando!');
     return total;
   }
 }
