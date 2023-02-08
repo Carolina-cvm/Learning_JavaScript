@@ -28,7 +28,7 @@ const max = Math.max(4,5,8,15);
 console.log(max); // 15
 
 // RANDOM gera número aleatório
-const random = Math.random(); // nunca será 1, 0....
+const random = Math.random(); // nunca será 1. Ex: 0.1951612
 console.log(random);
 
 // número aleatório de 1 a 10
