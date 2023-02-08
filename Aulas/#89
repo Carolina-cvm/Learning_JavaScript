@@ -1,11 +1,11 @@
 // AULA 89
 document.body.style.backgroundColor = 'blue';
-document.body.style.color = 'yellow;
+document.body.style.color = 'yellow';
 document.getElementById('btn').style.color = 'red';
 
-const element = document.getElementById('element);
+const element = document.getElementById('element');
 
-document.querySelector('element);
+document.querySelector('element');
 
 const btn = document.getElementById('btn');
 const name = btn.nodeName;
