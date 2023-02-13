@@ -1,5 +1,5 @@
 // EXERCISE #2
-const gas = [20, 40, 100, 30];
+const gas = [130, 115, 110, 125];
 const food = [10, 40, 50];
 
 function calculateTotal(meuArray){
