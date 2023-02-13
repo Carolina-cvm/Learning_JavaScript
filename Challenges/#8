@@ -5,7 +5,7 @@ function fullname(firstName, lastName){
   return result.toUpperCase();
 }
 
-console.log(fullname('maria', 'silva')); // MARIA SILVA
+console.log(fullname('maria', 'gomes')); // MARIA GOMES
 
 function fullname({firstName, lastName}){
   const result = `${firstName} ${lastName}`;
