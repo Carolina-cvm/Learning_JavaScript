@@ -7,7 +7,7 @@ const sub = number - number2;
 const mult = number * number2;
 const div = number / number2;
 
-console.log(add);
-console.log(sub);
-console.log(mult);
-console.log(div);
+console.log('adição:' + add);
+console.log('subtração:' + sub);
+console.log('multiplicação:' + mult);
+console.log('divisão:' + div);
