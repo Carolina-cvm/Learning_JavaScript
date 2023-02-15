@@ -14,6 +14,6 @@ calcular();
 
 if (true){
   console.log(nome); // maria clara silva 
-  nome = 'borboleta';
+  nome = 'arvore';
 }
-console.log(`agora meu nome eh ${nome}`); // agora meu nome eh borboleta
+console.log(`agora meu nome eh ${nome}`); // agora meu nome eh arvore
