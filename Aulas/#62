@@ -5,8 +5,8 @@ number2 = 7;
 console.log(`the first value is ${number}`); // 1
 console.log(`the second value is ${number2}`); // 7
 
-let person = {nome: 'bob'};
+let person = {nome: 'joao'};
 let person2 = {...person};
-person2.nome = 'susy';
-console.log(`the first name is ${person.nome}`); // bob
-console.log(`the second name is ${person2.nome}`); // susy
+person2.nome = 'maria';
+console.log(`the first name is ${person.nome}`); // joao
+console.log(`the second name is ${person2.nome}`); // maria
