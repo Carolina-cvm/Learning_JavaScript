@@ -11,5 +11,5 @@ switch(num){
     console.log('número tres');
     break;
   default:
-    console.log('seu numero nao faz parte da lista');
+    console.log('Este número não faz parte da lista');
 }
