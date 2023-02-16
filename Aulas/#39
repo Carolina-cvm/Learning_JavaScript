@@ -1,5 +1,5 @@
 // AULA 39
 function hello(){ // declare
-  console.log('hey people');
+  console.log('ola pessoas');
 }
 hello() // invoke
