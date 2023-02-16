@@ -1,6 +1,6 @@
 // AULA 57
 // interpolation
-const nome = 'maria';
+const nome = 'ana';
 const idade = 18;
 const resultado = 'Esta é a ' + nome + ' e sua idade é ' + idade;
 console.log(resultado);
