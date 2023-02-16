@@ -16,7 +16,7 @@ console.log(nomeCompleto);
 nomeCompleto.shift(); // remove item index 0 do array
 console.log(nomeCompleto);
 
-nomeCompleto.push('helena'); // adiciona no final do array
+nomeCompleto.push('joana'); // adiciona no final do array
 console.log(nomeCompleto); 
 
 nomeCompleto.pop(); // remove item do ultimo index
