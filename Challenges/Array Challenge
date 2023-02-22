@@ -14,13 +14,13 @@ const students = [
   },
   {
     id:3,
-    name:'pedro',
+    name:'julia',
     score: 85,
     favoriteSubject:'art'
   },
   {
     id:4,
-    name:'olivia',
+    name:'joao',
     score: 65,
     favoriteSubject:'geo'
   },
