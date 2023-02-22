@@ -1,5 +1,5 @@
 // AULA 100
-const first = document.querySelector('.first');
+const first = document.querySelector('.first'); // class
 const idValue = first.getAttribute('id');
 console.log(idValue);
 
@@ -12,5 +12,5 @@ last.setAttribute('class','first');
 last.textContent = 'i also have a class first';
 console.log(last);
 
-const links = document.querySelectorAll('.first');
+const links = document.querySelectorAll('.first'); // class
 console.log(links);
