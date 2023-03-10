@@ -2,7 +2,7 @@
 const person = {
   nome = 'Maria',
   sobrenome = 'Silva',
-  idade = 21,
+  idade = 22,
   profissao = 'medica',
   animais = ['cachorro', 'gato', 'passaro'],
   greeting(){
