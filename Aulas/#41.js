@@ -1,8 +1,8 @@
 // AULA 41
 function calcular(valor){
-  fazer_conta =  valor + 5;
+  fazer_conta =  valor + 3;
   return fazer_conta;
-  // return valor + 5;
+  // return valor + 3;
 }
 
 const number = 5;
