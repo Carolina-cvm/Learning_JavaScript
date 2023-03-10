@@ -10,5 +10,5 @@ const add = function(num1, num2){
   return num1 + num2;
 }
 
-const values = [firstValue, secondValue, add(20, 5)]
+const values = [firstValue, secondValue, add(30, 5)]
 console.log(values);
