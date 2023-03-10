@@ -11,7 +11,6 @@ else {
   console.log('num2 é maior');
 }
 
-
 const value = false;
 if (!value){
   console.log('value is false');
