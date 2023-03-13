@@ -1,6 +1,6 @@
 // AULA 94
-// id #
-// class .
+// id = #
+// class = .
 const result = document.querySelector('#result');
 result.style.backgroundColor = 'purple';
 
