@@ -1,5 +1,5 @@
 // AULA 89
-document.body.style.backgroundColor = 'blue';
+document.body.style.backgroundColor = 'black';
 document.body.style.color = 'yellow';
 document.getElementById('btn').style.color = 'red';
 
