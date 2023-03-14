@@ -17,7 +17,7 @@ console.log(sqrt); // 5
 
 // PI
 const pi = Math.PI;
-console.log(pi); // 3,14....
+console.log(pi); // 3,14...
 
 // MIN
 const min = Math.min(4,5,8,15);
