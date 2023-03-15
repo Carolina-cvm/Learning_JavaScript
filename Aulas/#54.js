@@ -7,5 +7,5 @@ for (i = 0; i < 10; i++){
 }
 
 for (let numero = 11; numero >= 0; numero--){
-  console.log('o numero é:' + numero);
+  console.log('O numero é:' + numero);
 }
