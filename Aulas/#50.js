@@ -1,5 +1,5 @@
 // AULA 50
-const num = 3;
+const num = 2;
 switch(num){
   case 1:
     console.log('número um');
