@@ -9,5 +9,5 @@ if (nome === 'ana' || idade === 21){
   console.log('olá usuario');
 }
 else{
-  console.log('ops, algo deu errado');
+  console.log('Erro, algo deu errado');
 }
