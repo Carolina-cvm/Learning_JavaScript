@@ -3,7 +3,7 @@ let text = ' Peter Jordan';
 let result = text.length;
 console.log(result);
 
-console.log(text.length); //13
+console.log(text.length); // 13
 console.log(text.toLowerCase); // perter jordan
 console.log(text.toUpperCase); // PETER JORDAN
 console.log(text.charAt(0)); // 
