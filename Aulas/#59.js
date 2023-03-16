@@ -1,5 +1,5 @@
 // AULA 59
-let nomes = ['maria', 'ana', 'joao', 'pedro', 'juca', 'paçoca'];
+let nomes = ['maria', 'anna', 'joao', 'pedro', 'juca', 'paçoca'];
 
 console.log(nomes.length); // 6
 console.log(nomes[4]); // juca
