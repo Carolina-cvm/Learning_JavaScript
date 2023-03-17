@@ -1,5 +1,5 @@
 // AULA 68
-// js usa a variavel local, se não achar procura global
+// js usa a variavel local, se não achar procura a variavel global
 
 const globalNumber = 5;
 function add(num1, num2){
