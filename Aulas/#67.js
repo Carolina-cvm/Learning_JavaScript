@@ -1,7 +1,7 @@
 // AULA 67
-// variavel criada dentro da função so pode ser acessada dentro da função
+// variavel criada dentro da função só pode ser acessada dentro da função
 function pessoa(){
-  const nome = 'Meu nome é julia';
+  const nome = 'Meu nome é luana';
   idade = 'Eu tenho 15 anos';
 }
 pessoa();
