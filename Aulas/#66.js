@@ -6,7 +6,7 @@ function calcular(){
   console.log(nome); // joao
   function outrafunção(){
     nome = 'maria clara silva';
-    console.log(`ola este é meu novo nome: ${nome}`); // ola este é meu novo nome: maria clara silva
+    console.log(`oi, este é meu novo nome: ${nome}`); // oi, este é meu novo nome: maria clara silva
   }
   outrafunção();
 }
