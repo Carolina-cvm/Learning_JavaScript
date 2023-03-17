@@ -9,7 +9,7 @@ if (bool2){
   console.log('verdadeiro tbm');
 }
 
-const text = 'ana'; // verdadeiro
+const text = 'maria'; // verdadeiro
 if(text){
   console.log('verdadeiro');
 } else{
