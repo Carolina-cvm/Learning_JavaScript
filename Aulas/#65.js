@@ -10,5 +10,5 @@ else {
   console.log('falso');
 }
 
-const value2 = 2 > 5; // falso
+const value2 = 3 > 5; // falso
 value2 ? console.log('verdadeiro') : console.log('falso');
