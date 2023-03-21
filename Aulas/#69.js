@@ -8,7 +8,7 @@ function afternoon(name){
 }
 
 function greet(name,callbackFunction){
-  const myName = 'carol';
+  const myName = 'ana';
   console.log(`${callbackFunction(name)}, my name is ${myName}`);
 }
 
