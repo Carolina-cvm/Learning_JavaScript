@@ -2,19 +2,19 @@
 //Map
 const people = [
   {name: 'ana', age: 20, profession: 'developer' },
-  {name: 'maria', age: 25, profession: 'designer' },
+  {name: 'maria', age: 24, profession: 'designer' },
   {name: 'julia', age: 22, profession: 'engineer' },
 ];
 
 const ages = people.map(function (person){
-  return person.age; // 20, 25, 22
+  return person.age; // 20, 24, 22
 });
 
 const newPeople = people.map(function (person){
   return{
     firstName: person.name.toUpperCase(),
     agePerson: person.age,
-     // firstName = "ANA", agePerson = 20 firstName = "MARIA", agePerson = 25 firstName = "JULIA, agePerson = 22
+     // firstName = "ANA", agePerson = 20 firstName = "MARIA", agePerson = 24 firstName = "JULIA, agePerson = 22
   };
 });
 
