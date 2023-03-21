@@ -1,7 +1,7 @@
 // AULA 73
 // filter
 const people = [
-  {name: 'ana', age: 20, profession: 'developer' },
+  {name: 'ana', age: 24, profession: 'developer' },
   {name: 'maria', age: 30, profession: 'designer' },
   {name: 'julia', age: 22, profession: 'engineer' },
 ];
