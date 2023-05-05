@@ -2,7 +2,7 @@
 <div>
 <h3 align="center">Estudando JavaScript pela Udemy.</h3> 
 
-<p align="center"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a></p>
+<p align="center"><a href="https://www.udemy.com/course/javascript-tutorial-for-beginners-w/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a></p>
 
 <h3 align="center">Feito com ❤️ </h3>
 
