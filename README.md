@@ -1,4 +1,4 @@
-<h1 align="center">O básico de JavaScript  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="32"/></a></h1>
+<h1 align="center">O básico de JavaScript  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="33"/></a></h1>
 <div>
 <h3 align="center">Estudando JavaScript pela Udemy.</h3> 
 
